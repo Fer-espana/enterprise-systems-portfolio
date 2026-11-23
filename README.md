@@ -52,11 +52,11 @@ flowchart TB
 ## 📚 Índice de Casos de Estudio
 
 | # | Documento | Sistema / Dominio | Stack Clave | Enfoque Técnico |
-| --- | --- | --- | --- | --- |
-| 01 | [`docs/01-aquaverso-platform.md`](https://www.google.com/search?q=docs/01-aquaverso-platform.md) | **Plataforma Web AquaVerso** | `Angular 22 (SSR)` `Node.js` `Express` `SQL Server` `PostgreSQL` `Redis` `AWS S3` | Migración web, autenticación 2FA con Redis, inventarios multi-almacén, Fundeleasing, cheques, RRHH y backend multi-BD. |
-| 02 | [`docs/02-mobile-aws-ecosystem.md`](https://www.google.com/search?q=docs/02-mobile-aws-ecosystem.md) | **Ecosistema Móvil & AWS** | `Flutter` `Dart` `Google Play` `Google Maps APIs` `FCM` `AWS EC2` `PM2` `Odoo` | App `Aqua Servicios` en Play Store (escudo anti-Fake GPS, 9 formularios, firmas), app B2B `Ferrecity` y servidores AWS. |
-| 03 | [`docs/03-powerbi-telemetry-bi.md`](https://www.google.com/search?q=docs/03-powerbi-telemetry-bi.md) | **Business Intelligence (Power BI)** | `Power BI` `DAX` `PostgreSQL` `SQL Server` | Vistas de telemetría GPS (`America/Guatemala`), holgura de agenda, control de manufactura y cortes temporales DAX. |
-| 04 | [`docs/04-ssrs-report-builder.md`](https://www.google.com/search?q=docs/04-ssrs-report-builder.md) | **Reportería Paginada (Report Builder)** | `MS Report Builder` `T-SQL` `SQL Server` `Window Functions` `Odoo XML` | Auditoría biométrica de asistencia/retardos, optimización de datasets de crédito/facturación y reportes ERP. |
+| :- | :--- | :--- | :--- | :--- |
+| 01 | [Ver Caso 01 — AquaVerso](./docs/01-aquaverso-platform.md) | **Plataforma Web AquaVerso** | `Angular 22 (SSR)` `Node.js` `Express` `SQL Server` `PostgreSQL` `Redis` `AWS S3` | Migración web, autenticación 2FA con Redis, inventarios multi-almacén, Fundeleasing, cheques, RRHH y backend multi-BD. |
+| 02 | [Ver Caso 02 — Móvil & AWS](./docs/02-mobile-aws-ecosystem.md) | **Ecosistema Móvil & AWS** | `Flutter` `Dart` `Google Play` `Google Maps APIs` `FCM` `AWS EC2` `PM2` `Odoo` | App `Aqua Servicios` en Play Store (escudo anti-Fake GPS, 9 formularios, firmas), app B2B `Ferrecity` y servidores AWS. |
+| 03 | [Ver Caso 03 — Power BI](./docs/03-powerbi-telemetry-bi.md) | **Business Intelligence (Power BI)** | `Power BI` `DAX` `PostgreSQL` `SQL Server` | Vistas de telemetría GPS (`America/Guatemala`), holgura de agenda, control de manufactura y cortes temporales DAX. |
+| 04 | [Ver Caso 04 — Report Builder](./docs/04-ssrs-report-builder.md) | **Reportería Paginada (Report Builder)** | `MS Report Builder` `T-SQL` `SQL Server` `Window Functions` `Odoo XML` | Auditoría biométrica de asistencia/retardos, optimización de datasets de crédito/facturación y reportes ERP. |
 
 ---
 
