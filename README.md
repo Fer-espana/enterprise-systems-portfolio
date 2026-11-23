@@ -67,4 +67,3 @@ flowchart TB
 * **Bases de Datos & BI:** PostgreSQL, Microsoft SQL Server, Power BI Desktop / Report Server, DAX, Microsoft Report Builder (SSRS).
 * **Infraestructura & Herramientas:** AWS EC2 (Ubuntu Linux), administración remota SSH / PuTTY, PM2, Google Play Console, Git.
 
-```
